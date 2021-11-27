@@ -23,7 +23,7 @@ Step 2: Hibernate advanced mapping (multiple tables)
   !Keep in mind:  
       - @JoinColumn place in Course instead of Review
 
-  - Many to Many:
+  - Many to Many:  
   tables: course, student  
   !Keep in mind:  
       - @JoinTable
