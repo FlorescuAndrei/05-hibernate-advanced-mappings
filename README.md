@@ -30,7 +30,6 @@ Step 2: Hibernate advanced mapping (multiple tables)
 
 
 Note:  
-Attention when running app classes to populate or manipulate data, Can generate errors to database.  
 File to crate database are in sql_scripts folder
 
 Database Diagram:  
