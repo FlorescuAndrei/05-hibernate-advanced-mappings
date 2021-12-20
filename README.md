@@ -32,10 +32,12 @@ Step 2: Hibernate advanced mapping (multiple tables)
 Note:  
 File to crate database are in sql_scripts folder.  
 
-The 17 runnable classes from com.andrei.hibernate.advanced are numbered in logical order to construct and run the project.
+Building steps: File - New – Java Project.  
+  - The 17 runnable classes from com.andrei.hibernate.advanced are numbered in logical order to construct and run the project.
 
 Config: hibernate.cfg.xml.  
-Lib: hibernate lib required; mysql-connector.  
+Lib: hibernate lib required; mysql-connector.   
+Not a Spring project, not a Maven project
 
 
 Database Diagram:  
