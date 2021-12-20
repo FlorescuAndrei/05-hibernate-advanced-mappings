@@ -37,7 +37,7 @@ Building steps: File - New – Java Project.
 
 Config: hibernate.cfg.xml.  
 Lib: hibernate lib required; mysql-connector.   
-Not a Spring project, not a Maven project
+(not a Spring project, not a Maven project)
 
 
 Database Diagram:  
