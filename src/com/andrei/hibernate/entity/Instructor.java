@@ -106,7 +106,7 @@ public class Instructor {
 	//add convinience method for bi-directional relationship
 	
 	public void addCourse (Course course) {
-		if(course==null) {
+		if(courses==null) {
 			courses = new ArrayList();
 		}
 		courses.add(course);

@@ -1,6 +1,6 @@
-CREATE USER 'hbstudent'@'localhost' IDENTIFIED BY 'hbstudent';
+CREATE USER 'student'@'localhost' IDENTIFIED BY 'student';
 
-GRANT ALL PRIVILEGES ON * . * TO 'hbstudent'@'localhost';
+GRANT ALL PRIVILEGES ON * . * TO 'student'@'localhost';
 
 #
 # Starting with MySQL 8.0.4, the MySQL team changed the 
@@ -12,4 +12,4 @@ GRANT ALL PRIVILEGES ON * . * TO 'hbstudent'@'localhost';
 # See the MySQL Reference Manual for details: 
 # https://dev.mysql.com/doc/refman/8.0/en/caching-sha2-pluggable-authentication.html
 #
-ALTER USER 'hbstudent'@'localhost' IDENTIFIED WITH mysql_native_password BY 'hbstudent';
+ALTER USER 'student'@'localhost' IDENTIFIED WITH mysql_native_password BY 'student';
