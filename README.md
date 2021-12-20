@@ -35,5 +35,7 @@ File to crate database are in sql_scripts folder
 Database Diagram:  
 ![Database Diagram:](sql-scripts/create-hb-advances-mappings-db.png)  
 
+![Project Explorer:](box/project-structure.png)
+
 [BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git) 
 
