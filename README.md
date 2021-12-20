@@ -36,6 +36,7 @@ Building steps: File - New – Java Project.
   - The 17 runnable classes from com.andrei.hibernate.advanced are numbered in logical order to construct and run the project.
 
 Config: hibernate.cfg.xml.  
+  
 Lib: hibernate lib required; mysql-connector.   
 (not a Spring project, not a Maven project)
 
@@ -43,7 +44,7 @@ Lib: hibernate lib required; mysql-connector.
 Database Diagram:  
 ![Database Diagram:](sql-scripts/create-hb-advances-mappings-db.png)  
 
-![Project Explorer:](box/project-structure.png)
+
 
 [BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git) 
 
