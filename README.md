@@ -34,6 +34,7 @@ File to crate database are in sql_scripts folder.
 
 Building steps: File - New – Java Project.  
   - The 17 runnable classes from com.andrei.hibernate.advanced are numbered in logical order to construct and run the project.
+Run As - Run on Server
 
 Config: hibernate.cfg.xml.  
   
