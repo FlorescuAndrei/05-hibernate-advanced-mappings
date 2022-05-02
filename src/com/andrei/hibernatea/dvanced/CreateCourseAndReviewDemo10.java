@@ -37,7 +37,7 @@ public class CreateCourseAndReviewDemo10 {
 			
 			course.addReview(new Review("Gerat course ....love it!"));
 			course.addReview(new Review("Cool course ....job well done!"));
-			course.addReview(new Review("What a dumb course, you are an idiot!"));
+			course.addReview(new Review("What a dumb course!...."));
 			
 			System.out.println("Saving the course: ");
 			System.out.println(course);
