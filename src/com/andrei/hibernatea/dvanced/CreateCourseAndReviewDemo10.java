@@ -35,7 +35,7 @@ public class CreateCourseAndReviewDemo10 {
 			
 			Course course = new Course("Tennis techniques");
 			
-			course.addReview(new Review("Gerat course ....love it!"));
+			course.addReview(new Review("Great course ....love it!"));
 			course.addReview(new Review("Cool course ....job well done!"));
 			course.addReview(new Review("What a dumb course!...."));
 			
