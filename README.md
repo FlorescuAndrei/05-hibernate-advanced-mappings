@@ -3,29 +3,29 @@ Hibernate learning project.
 CRUD and Advanced Mappings: One To One, One To Many,  Many To Many, Uni and Bidirectional.
 
 Step 1: Basic CRUD operation on a single table (student)  
-!Keep in mind:  
+!Use of:  
   - PK 
   - Autoincrement
 
 Step 2: Hibernate advanced mapping (multiple tables)  
   - One to One : unidirectional/bidirectional relation:  
   tables: instuctor, instructor_detail  
-  !Keep in mind:  
+  !Use of:  
       - FK 
       - Cascade operations
   - One to Many	bidirectional:  
   tables: instructor, course  
-  !Keep in mind:  
+  !Use of:  
       - Fetch type: Eager vs Lazy 
 
   - One to Many  unidirectional:  
   tables: course, review  
-  !Keep in mind:  
+  !Use of:  
       - @JoinColumn place in Course instead of Review
 
   - Many to Many:  
   tables: course, student  
-  !Keep in mind:  
+  !Use of:  
       - @JoinTable
 
 
